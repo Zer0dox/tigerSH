@@ -8,4 +8,4 @@ pip install cryptography
 ```
 
 Debug mode is on by default, meaning key received from server in exchange will be saved to a log file.
-If you don't want it, turn it off by setting debug_mode to False.
+If you don't want it, turn it off by setting **debug_mode** to **False**.
