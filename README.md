@@ -14,3 +14,6 @@ If you don't want it, turn it off by setting **debug_mode** to **False**.
 # Line 6 in client.py
 debug_mode = False
 ```
+
+# Contributing
+Please feel free to fork and contribute. This is merely a proof of concept for educational purposes.
