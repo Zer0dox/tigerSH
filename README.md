@@ -20,7 +20,7 @@ Please feel free to fork and contribute. This is merely a proof of concept for e
 
 # Disclaimer
 
-IMPORTANT: Please read this disclaimer carefully before using the script.
+**IMPORTANT: Please read this disclaimer carefully before using the script.**
 
 1. Acknowledgment and Assumption of Risks:
    The script you are about to use is provided strictly for educational, research, or testing purposes. It may have the potential to cause unintended consequences, data loss, system crashes, or other undesirable outcomes. By using this script, you acknowledge and assume all risks associated with its use.
